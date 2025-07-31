@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O FUTURO DO JIU-JITSU: TRADIÇÃO, EVOLUÇÃO E INTELIGÊNCIA ARTIFICIAL
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é um e-book que explora a história do Jiu-Jitsu, destacando sua tradição e evolução, além de analisar o impacto e as possibilidades da Inteligência Artificial no futuro desse esporte. O conteúdo aborda como a tecnologia pode transformar treinamentos, estratégias e a experiência no tatame, mantendo a essência da arte suave.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT** – para criação do roteiro e organização dos conteúdos  
+- **HyperWrite** – para auxílio na escrita e enriquecimento dos textos  
+- **Microsoft Copilot** – para geração de imagens originais que ilustram o e-book  
+- **Canva** – para diagramação, design e montagem final do e-book
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Comecei estruturando o roteiro com o ChatGPT, contemplando os principais aspectos históricos e a inovação tecnológica com IA. Usei o HyperWrite para melhorar a fluidez dos textos e garantir clareza na comunicação. As imagens foram produzidas com Microsoft Copilot, dando um toque moderno ao material. Por fim, organizei o layout e diagramação no Canva para criar um e-book visualmente atraente e profissional.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta uma narrativa envolvente que conecta passado, presente e futuro do Jiu-Jitsu, destacando o papel da Inteligência Artificial no aprimoramento do esporte. Com conteúdo textual sólido e imagens originais, o material está pronto para ser usado como portfólio, recurso educativo e inspiração para entusiastas e profissionais.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este projeto reforçou como as tecnologias de IA são poderosas ferramentas para criar conteúdo relevante e impactante. A combinação da tradição do Jiu-Jitsu com a inovação digital mostra um caminho promissor, onde respeito às raízes e evolução caminham juntos.
